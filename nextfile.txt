@@ -1,0 +1,4 @@
+a new file named nextfile
+hello
+hi
+
